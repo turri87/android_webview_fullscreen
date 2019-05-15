@@ -1,3 +1,3 @@
-# android_webview_fullscreen
+# Android webview fullscreen
 
-App which load a YouTube player on a Web-view allowing the fullscreen option
+App which loads a YouTube player on a Web-view allowing the fullscreen option
